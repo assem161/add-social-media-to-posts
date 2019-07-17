@@ -1,0 +1,10 @@
+.ft_s_m a{
+	text-decoration: none;
+	margin-right: 10px;
+	box-shadow: none !important; 
+	border: 0px !important; 
+}
+
+.reguler-text{
+	width: 100%;
+}
